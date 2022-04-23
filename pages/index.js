@@ -11,7 +11,7 @@ function HomePage() {
           </h1>
           <p>
           Some of my Projects ⬎
-            My First Discord Bot [Cariye Bot](https://cariyebot.github.io/)
+            <a href="https://cariyebot.github.io/">Cariye Bot</a>
 
           </p>
         </div>
