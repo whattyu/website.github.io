@@ -13,6 +13,7 @@ export default function MyApp({ Component, pageProps }) {
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <title>Ata Tolga | Whattyu</title>
+        <link rel="icon" href="https://raw.githubusercontent.com/whattyu/blog/main/public/images/profile.png" />
       </Head>
 
       <Header />
