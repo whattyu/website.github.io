@@ -12,9 +12,9 @@ function HomePage() {
           <p>
           Some of my Projects ⬎
           </p>
-          <p>My First Bot -> <a href="https://cariyebot.github.io/">Cariye Bot</a> </p>
-          <p>My Second (and best) Bot -> <a href="https://top.gg/bot/849663572308918343/">Cariye+ Bot</a> </p>
-          <p>My Basic Calculator Site <a href="https://calculate.whattyu.repl.co/">Cariye Bot</a> </p>
+          <p>- My First Bot -> <a href="https://cariyebot.github.io/">Cariye Bot</a> </p>
+          <p>- My Second (and best) Bot -> <a href="https://top.gg/bot/849663572308918343/">Cariye+ Bot</a> </p>
+          <p>- My Basic Calculator Site <a href="https://calculate.whattyu.repl.co/">Cariye Bot</a> </p>
         </div>
       </Container>
     </>
