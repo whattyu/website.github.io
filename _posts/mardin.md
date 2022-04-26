@@ -10,7 +10,7 @@ Bir dağın tepesine kurulmuş küçük bir şehir (bu mardin merkezi için geç
 
 ### İnsanları
 
-Genelleme yapacak olursam ne dedikleri anlaşılmıyor bazıları Türkçe konuşurken bi anda arapça, kürtçe falan konuşabiliyor ama o kadarda kötü insanalar değildir demek isterim **ama CAHİLLER**(Bu özellike 35 yaş üzerine).
+Genelleme yapacak olursam ne dedikleri anlaşılmıyor bazıları Türkçe konuşurken bi anda arapça, kürtçe falan konuşabiliyor ama o kadarda kötü insaalar değildir demek isterim **ama CAHİLLER**(Bu özellike 35 yaş üzerine).
 
 ### Bahçeşehir Koleji
 
