@@ -17,7 +17,9 @@ You need to download Discord Development. Just open this link:
 > https://discordapp.com/api/download/development?platform=linux&format=tar.gz (Linux, tar.gz)
 
 > https://discordapp.com/api/download/development?platform=osx (Mac)
+
 ##Open console, use script
+
 If we already have Discord Development downloaded, all we need to do is open the console in the client using the shortcut CTRL + SHIFT + I and then paste this code into the console:
 ```JavaScript
 Object.defineProperty(
@@ -32,5 +34,6 @@ Object.defineProperty(
 ```
 This code will set the isDeveloper property to true.
 
-#Test experiments
+# Test experiments
+
 Finally, all we have to do is go into the settings and at the very bottom we'll see the Experiments tab. We click on that, and we'll see experiments. You always have a select menu where you can choose what type you want.
