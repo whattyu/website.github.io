@@ -11,8 +11,11 @@ When we want to try the latest unreleased stuff, we need a different client than
 You need to download Discord Development. Just open this link:
 
 > https://discordapp.com/api/download/development?platform=win (Windows)
+
 > https://discordapp.com/api/download/development?platform=linux&format=deb (Linux, deb)
+
 > https://discordapp.com/api/download/development?platform=linux&format=tar.gz (Linux, tar.gz)
+
 > https://discordapp.com/api/download/development?platform=osx (Mac)
 ##Open console, use script
 If we already have Discord Development downloaded, all we need to do is open the console in the client using the shortcut CTRL + SHIFT + I and then paste this code into the console:
