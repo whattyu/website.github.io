@@ -35,3 +35,8 @@ This code will set the isDeveloper property to true.
 
 # Test experiments
 Finally, all we have to do is go into the settings and at the very bottom we'll see the Experiments tab. We click on that, and we'll see experiments. You always have a select menu where you can choose what type you want.
+
+
+
+
+credits to: 'https://hyro.pages.dev/blog/posts/how-to-try-discord-experiments/'
