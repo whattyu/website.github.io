@@ -7,6 +7,7 @@ date: "2022-04-27"
 If you want to try things that discord does that are not yet published you need to do a few things. In this post we'll show how to unblock the "Experiment" tab and how to download the development version of Discord (no canary).
 
 #Download development version of Discord
+
 When we want to try the latest unreleased stuff, we need a different client than Canary. These things come to canary later.
 You need to download Discord Development. Just open this link:
 
@@ -18,7 +19,7 @@ You need to download Discord Development. Just open this link:
 
 > https://discordapp.com/api/download/development?platform=osx (Mac)
 
-##Open console, use script
+#Open console, use script
 
 If we already have Discord Development downloaded, all we need to do is open the console in the client using the shortcut CTRL + SHIFT + I and then paste this code into the console:
 ```JavaScript
