@@ -4,7 +4,7 @@ excerpt: "how to try discord experiments"
 date: "2022-04-27"
 ---
 
-If you want to try things that discord does that are not yet published you need to do a few things. In this post we'll show how to unblock the "Experiment" tab and how to download the development version of Discord (no canary).
+If you want to try things that discord does that are not yet published you need to do a few things. In this post we'll show how to unblock the "Experiment" tab and how to download the development version of Discord (no canary but you can use canary).
 
 # Download development version of Discord
 When we want to try the latest unreleased stuff, we need a different client than Canary. These things come to canary later.
