@@ -4,6 +4,8 @@ excerpt: "how to try discord experiments"
 date: "2022-04-27"
 ---
 
+> ⚠️ It's breaking TOS so be carefully
+
 If you want to try things that discord does that are not yet published you need to do a few things. In this post we'll show how to unblock the "Experiment" tab and how to download the development version of Discord (no canary but you can use canary).
 
 # Download development version of Discord
@@ -39,4 +41,4 @@ Finally, all we have to do is go into the settings and at the very bottom we'll 
 
 
 
-credits to: 'https://hyro.pages.dev/blog/posts/how-to-try-discord-experiments/'
+Credits to: 'https://hyro.pages.dev/blog/posts/how-to-try-discord-experiments/'
