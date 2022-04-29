@@ -9,8 +9,6 @@ function HomePage() {
           <h1 className="text-2xl font-bold">
             Hey there 🙋, I'm Ata Tolga (you know me as Whattyu). I currently working with Next.js and building JavaScript Discord bots.
           </h1>
-        </div>
-        <div>
           <h2>
             Some of my Projects ⬎
           </h2>
