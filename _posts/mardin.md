@@ -1,5 +1,5 @@
 ---
-title: "Mardin"
+title: "Mardin Blog"
 excerpt: "My ideas about Mardin."
 date: "2022-01-16"
 ---
