@@ -12,7 +12,7 @@
     "gray-matter": "4.0.3",
     "ioredis": "5.0.4",
     "nanoid": "3.3.3",
-    "next": "12.1.5",
+    "next": "12.1.6",
     "react": "18.1.0",
     "react-dom": "18.1.0",
     "remark": "13.0.0",
