@@ -1,5 +1,5 @@
 ---
-title: "Markdown Examples (en)"
+title: "Markdown Examples"
 excerpt: View examples of all possible Markdown options.
 date: "2022-05-03"
 ---
