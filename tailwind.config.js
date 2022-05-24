@@ -3,7 +3,7 @@ module.exports = {
   purge: ['./pages/**/*.js', './components/**/*.js'],
   variants: {
     extend: {
-      opacity: ['disabled'],
+      opacity: ['true'],
     },
   },
   plugins: [require('@tailwindcss/typography')],
