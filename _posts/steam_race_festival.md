@@ -5,11 +5,11 @@ date: "2022-05-24"
 ---
 import Image from 'next/image'
 
-#First
+# First
 Open Steam and click here ⬎
 [https://prnt.sc/mF65klcoK1L2](https://prnt.sc/mF65klcoK1L2)
 
-#Second
+# Second
 Go to the **Trivia** Page and
   1th Race Arround the Clock
   2th 1900
@@ -18,7 +18,7 @@ Go to the **Trivia** Page and
   5th Burnout 3
 select the the answers
 
-#Third and Last
+# Third and Last
 
 In the down stairs it will be gives a message
 If "Congrats! Your trophy is in a section of the sale where you might try out racing games from the future." look at the tab upcoming and then browse demos,
