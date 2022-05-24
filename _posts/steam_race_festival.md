@@ -7,14 +7,7 @@ import Image from 'next/image'
 
 #First
 Open Steam and click here ⬎
-<Image
-  src="https://prnt.sc/mF65klcoK1L2"
-  alt="Photo"
-  width={1250}
-  height={450}
-  priority
-  className="next-image"
-/>
+[https://prnt.sc/mF65klcoK1L2](https://prnt.sc/mF65klcoK1L2)
 
 #Second
 Go to the **Trivia** Page and
