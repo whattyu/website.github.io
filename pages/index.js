@@ -14,11 +14,11 @@ function HomePage() {
           </h2>
           <p>
             <ul>
-              <li>My First Bot -> <a href="https://cariyebot.github.io/" target="_blank">Cariye Bot</a> </li>
-              <li>My Second (and best) Bot -> <a href="https://top.gg/bot/849663572308918343/" target="_blank">Cariye+ Bot</a> </li>
-              <li>My Basic Calculator <a href="https://calculate.whattyu.repl.co/" target="_blank">Site</a> </li>
-              <li>My Basic <a href="https://tetris-game.whattyu.repl.co/" target="_blank">Tetris Game</a> </li>
-              <li>My Basic Python <a href="https://tetris-game.whattyu.repl.co/" target="_blank">Projects</a> </li>
+              <li><a href="https://cariyebot.github.io/" target="_blank">My First Bot -> Cariye Bot</a> </li>
+              <li><a href="https://top.gg/bot/849663572308918343/" target="_blank">My Second (and best) Bot -> Cariye+ Bot</a> </li>
+              <li><a href="https://calculate.whattyu.repl.co/" target="_blank">My Basic Calculator Site</a> </li>
+              <li><a href="https://tetris-game.whattyu.repl.co/" target="_blank">My Basic Tetris Game</a> </li>
+              <li><a href="https://tetris-game.whattyu.repl.co/" target="_blank">My Basic Python Projects</a> </li>
             </ul>
           </p>
     </div>
